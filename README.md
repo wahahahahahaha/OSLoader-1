@@ -8,3 +8,9 @@ Client features:
 * Zulrah phase tracking (not finished but working)
 * Player presence alert (useful when alone in the wild)
 * Low prayer alert
+
+Screenshots:
+* http://i.imgur.com/Atc1k5z.png
+* http://i.imgur.com/oEmxIsZ.png
+* http://i.imgur.com/3S0x53j.png
+* http://i.imgur.com/Xzxca6w.png
