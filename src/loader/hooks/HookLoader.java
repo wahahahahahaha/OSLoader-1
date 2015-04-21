@@ -53,7 +53,7 @@ public class HookLoader {
 			Storage.classStorage.get("World").putField("getWorld", null, "q", -1216514709);
 		//	Storage.classStorage.get("World").putField("getActivity", null, "r", 1);
 			Storage.classStorage.get("World").putField("getMask", null, "l", -511233731);
-			Storage.classStorage.get("World").putField("getDomain", null, "n", 1);
+			Storage.classStorage.get("World").putField("getDomain", null, "e", 1);
 			Storage.classStorage.get("World").putField("getLocation", null, "t", -1350591325);
 
 			c = jarLoader.loadClass("en");
